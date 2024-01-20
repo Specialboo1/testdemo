@@ -1,2 +1,0 @@
-export const ActionTypes = {LOAD_DATA : "LOAD_DATA",
- SEARCH_DATA : 'SEARCH_DATA', FILTER_DATA: 'FILTER_DATA'}
